@@ -1,5 +1,3 @@
-const encrypt = (password: string) => {
-  return "This is an encryption test";
-}
+import OXSimple from "./oxsimple";
 
-export {encrypt}
+export {OXSimple}
